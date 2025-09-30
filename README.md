@@ -1,9 +1,9 @@
 <a href="https://mcp.scira.ai">
-  <h1 align="center">RunAsh MCP Chat</h1>
+  <h1 align="center">RunAshChat</h1>
 </a>
 
 <p align="center">
-  An open-source AI chatbot app powered by Model Context Protocol (MCP), built with Next.js and the AI SDK by Vercel.
+  An RunAsh AI open-source RunAshChat app powered by Model Context Protocol (MCP), built with Next.js and the AI SDK by Vercel.
 </p>
 
 <p align="center">
