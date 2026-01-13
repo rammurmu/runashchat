@@ -370,4 +370,4 @@ export function ChatSidebar() {
       </Sidebar>
     </TooltipProvider>
   );
-  }
+}
