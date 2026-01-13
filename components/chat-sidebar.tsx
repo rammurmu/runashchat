@@ -243,7 +243,8 @@ export function ChatSidebar() {
                                   </TooltipTrigger>
                                   <TooltipContent side="right" className="w-64 p-3 bg-popover/95 backdrop-blur shadow-2xl">
                                     <p className="text-[11px] italic text-muted-foreground line-clamp-3">
-                                      {chat.lastMessage || "No message history available."}
+                                      {(chat.as any).lastMessage || "No message history available."}
+                                    
                                     </p>
                                   </TooltipContent>
                                 </Tooltip>
